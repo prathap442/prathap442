@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with a good mentor
 - 📫 How to reach me: pmohansaikrishna@gmail.com
+- Leetcode Stats:
+![Leetcode Stats](https://leetcode.com/pmohansaikrishna/)
