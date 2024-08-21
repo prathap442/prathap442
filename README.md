@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 # LeetCode Stats Card
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pmohansaikrishna?theme=light&font=Cormorant%20Infant)
+
+# LeetCode Heat Map
+![](https://leetcard.jacoblin.cool/pmohansaikrishna?ext=heatmap)
