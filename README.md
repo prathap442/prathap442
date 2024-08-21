@@ -19,5 +19,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with a good mentor
 - 📫 How to reach me: pmohansaikrishna@gmail.com
-- Leetcode Stats:
-![Leetcode Stats](https://leetcode.com/pmohansaikrishna/)
+
+
+# LeetCode Stats Card
+
+[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
+
+Show your dynamically generated LeetCode stats on your GitHub profile or your website!
+
+LeetCode and LeetCode CN are both supported.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pmohansaikrishna?theme=light&font=Cormorant%20Infant)
