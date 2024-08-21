@@ -22,11 +22,4 @@ Here are some ideas to get you started:
 
 
 # LeetCode Stats Card
-
-[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
-
-Show your dynamically generated LeetCode stats on your GitHub profile or your website!
-
-LeetCode and LeetCode CN are both supported.
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pmohansaikrishna?theme=light&font=Cormorant%20Infant)
