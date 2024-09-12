@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on cx2 dashboard
-- 🌱 I’m currently learning react, python3
+- 🌱 I’m currently learning on react
 - 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with a good mentor
 - 📫 How to reach me: pmohansaikrishna@gmail.com
